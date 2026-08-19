@@ -11,7 +11,7 @@
 </p>
 
 > 🔗 **Repositório de Anotações Teóricas & Conteúdo:**  
-> Para consultar resumos teóricos, comandos e anotações das aulas, acesse: [**AulasDevOps2026**](../AulasDevOps2026)
+> Para consultar resumos teóricos, comandos e anotações das aulas, acesse: [**Sophia-Araujo/AtividadeDevOps2026**](https://github.com/Sophia-Araujo/AulasDevOps2026)
 
 ---
 
